@@ -1,9 +1,5 @@
 this is 테스트입니다 
 이것은 서버에서 수정한 사항 
 이수정은 로컬에서 수정함 
-reset1
-reset2
-reset3
-revert-test1 추가
-revert-test2 추가
-revert-test3 추가
+
+
