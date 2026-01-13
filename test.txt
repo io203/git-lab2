@@ -4,3 +4,6 @@ this is 테스트입니다
 reset1
 reset2
 reset3
+revert-test1 추가
+revert-test2 추가
+revert-test3 추가
